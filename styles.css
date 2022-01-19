@@ -6,4 +6,6 @@ h2 {
 img {
   border-color: black;
   border-radius: 10px;
+  width: 250px;
+  height: auto;
 }

@@ -3,6 +3,10 @@ h2 {
   text-decoration: underline;
 }
 
+h1 {
+  color: steelblue;
+}
+
 img {
   border-color: black;
   border-radius: 10px;
